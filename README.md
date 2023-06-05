@@ -59,7 +59,7 @@ start developing your own code, and have fun!
 
 To run your tests locally, go to the root directory of the
 sample code and run the `python -m unittest discover tests` command, which
-AWS CodeBuild also runs through your `buildspec.yml` file.
+AWS CodeBuild also runs through your `buildspec.yml` file
 
 To test your new code during the release process, modify the existing tests or
 add tests to the tests directory. AWS CodeBuild will run the tests during the
@@ -91,3 +91,5 @@ should also regularly review and apply any available patches or associated secur
 advisories for dependencies used within your application.
 
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
+
+Hi, My name is Shweta.
